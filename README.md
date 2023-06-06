@@ -3,7 +3,7 @@ SVG source for a poster presented at the [APS Conference INFORMS 2023](https://i
 
 The poster was designed using Inkscape 1.2 and the svg file can be exported to pdf using the command
 ```console
-inkscape --file=poster.svg --without-gui --export-pdf=poster.pdf
+inkscape poster.svg --export-filename=poster.png
 ```
 For better visualisation in Inkscape, one needs to install the [Fira Sans Google familly font](https://fonts.google.com/specimen/Fira+Sans).
 
@@ -11,3 +11,5 @@ The design is inspired by those of [Dion Häfner](https://dionhaefner.github.io/
 
 License Notice: You are welcome to use my poster as a template for your own work! Please make your poster available as a template as well. 
 More formally: the poster is available under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
+
+![](./poster.png)

@@ -9,7 +9,7 @@
    id="svg5"
    sodipodi:docname="poster.svg"
    inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
-   inkscape:export-filename="poster.pdf"
+   inkscape:export-filename="poster.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.73940796"
-     inkscape:cx="2342.4146"
-     inkscape:cy="1173.9122"
+     inkscape:zoom="0.18485199"
+     inkscape:cx="2823.8809"
+     inkscape:cy="1649.9687"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -5936,6 +5936,13 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="opacity:1;fill:#ffffff;stroke-width:0.262;paint-order:markers fill stroke;fill-opacity:1"
+       id="rect8206"
+       width="840.61328"
+       height="1187.7465"
+       x="0.25117174"
+       y="0.91684479" />
     <path
        style="fill:#ffff51;fill-opacity:0.705882;stroke:none;stroke-width:0.678;stroke-dasharray:none"
        id="path16695"
