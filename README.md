@@ -1,6 +1,8 @@
 # Poster for APS Conference INFORMS at Nancy, France
 SVG source for a poster presented at the [APS Conference INFORMS 2023](https://informs-aps2023.event.univ-lorraine.fr/) at Nancy, France.
 
+This poster won one of the Best Poster Awards in the [APS Conference INFORMS 2023](https://informs-aps2023.event.univ-lorraine.fr/).
+
 The poster was designed using Inkscape 1.2 and the svg file can be exported to pdf using the command
 ```console
 inkscape poster.svg --export-filename=poster.png
